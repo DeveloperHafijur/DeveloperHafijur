@@ -1,4 +1,4 @@
-![👑 I am Web Developer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjACALim68lm5D3mXkET9us8VFP3WB6TZTQG4Reuwe6nefMCTrdMtJ2z5PdxnaiGDpKR27YR8ojz_cRWUArpA2x5aP_PDRExZKdECAd4zqa347YktsEMdgpfSneHAOjYxGLiiEk2qy5IKLG0y5J-nGjkUrzaNEXX49bay4_FAi906kM0grMaIXv7_KyZQ/s1500/Md%20Hafijur%20Rahoman.png)
+![👑 I am Web Developer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWwydBFc0KYhAlc3qY_YqCi1eHcn-GDcC3zrIveMapTFLDUubalrVIZ03O82WfgCrNiq3wAb8U2hfNYg33fx4zK3wO4x1AzsnXFcl2PKySdhMIIt6NW_9WqMZ48M0JNxFCzLgG_G9Q27jKMajUh6db1InX8UxtWqp_taKFOOcHpN5fnuib39qO8QbReA/s1500/Md%20Hafijur%20Rahoman%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Md Hafijur Rahoman</h1>
 <h3 align="center">I am Web Developer from Bangladesh</h3>
@@ -8,8 +8,8 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://twitter.com/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafijur191" height="30" width="40" /></a>
+<a href="https://fb.com/developerhafijur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafijur191" height="30" width="40" /></a>
+<a href="https://twitter.com/devhafijur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafijur191" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafijur191" height="30" width="40" /></a>
 <a href="https://instagram.com/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafijur191" height="30" width="40" /></a>
 <a href="https://codepen.io/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafijur191" height="30" width="40" /></a>
