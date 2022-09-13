@@ -10,10 +10,10 @@ I’m a Front End Web developer who is passionate about making error-free websit
 <p align="left">
 <a href="https://fb.com/developerhafijur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafijur191" height="30" width="40" /></a>
 <a href="https://twitter.com/devhafijur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://instagram.com/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://codepen.io/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hafijur191" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hafijur191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hafijur191" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/developerhafijur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafijur191" height="30" width="40" /></a>
+<a href="https://instagram.com/developerhafijur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafijur191" height="30" width="40" /></a>
+<a href="https://github.com/DeveloperHafijur" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/4381378511600029534-512.png" alt="hafijur191" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCA6JbbFA09EcZLYHCLkK7jw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hafijur191" height="30" width="40" /></a>
 
 
 </p>
